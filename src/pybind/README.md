@@ -1,4 +1,5 @@
 This was tested as follows.  After configuring with --shared and making the rest of Kaldi,
+you need install pybind11
 you can cd to here and do:
 ```
 # make
